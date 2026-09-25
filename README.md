@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am Ege.I started my CS major at Bilkent University a few weeks ago. I'm currently learning Java, and I also want to know about how to do animations and video games.
+
 <!--
 **ahmetegecigdem/ahmetegecigdem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
